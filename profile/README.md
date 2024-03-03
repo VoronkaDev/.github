@@ -26,3 +26,4 @@ Create a service that will allow you to find like-minded people and live a life 
 
 ### Organizers web service
 
+[Link](https://voronka-events.ru/organizer-service)
